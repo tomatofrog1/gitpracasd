@@ -9,7 +9,7 @@ export default function LoginPage() {
             BigOutsource
           </h1>
           <p className="text-gray-500 mt-2 text-sm">
-            Employee Records & IT Management System BUttons BAGO
+            Employee Records & IT Management Franco Management System Lebron Berron
           </p>
         </div>
 
